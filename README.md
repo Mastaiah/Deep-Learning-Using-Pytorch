@@ -16,7 +16,7 @@ This repository contains a custom implementation of a BERT-based model for multi
 - [License](#license)
 - [Contact](#contact)
 
-## Features
+## Features <a name="features"></a>
 - Fine-tuned BERT model for multi-label classification
 - Data preprocessing scripts
 - Training and evaluation scripts
@@ -39,7 +39,7 @@ This repository contains a custom implementation of a BERT-based model for multi
    pip install -r requirements.txt
    ```
 
-## Usage
+## Usage <a name="usage"></a>
 ### 1. Prepare Your Data
 Ensure your dataset is in the correct format. Typically, a CSV file with `text` and `labels` columns.
 
